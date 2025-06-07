@@ -1,23 +1,18 @@
 # Cybersecurity Journey 🛡️
 
-This repository tracks my cybersecurity learning path, including notes, practice scripts, and labs as I work through the ISC2 Certified in Cybersecurity (CC).
+This repo documents my cybersecurity learning path (ISC2 Certified in Cybersecurity - CC). Includes notes, lab walkthroughs, and practice scripts.
 
-## 📚 Topics Covered
-- Security principles
-- Access control
-- Network security
-- Security operations
-- Application security
+## 💻 Topics
+- Security Concepts
+- Access Control
+- Network Fundamentals
+- Security Operations
+- Application Security
 
-## 🧠 Current Focus
+## 🚀 Current Focus
 - Vulnerability scanning
-- Secure authentication
-- Threat modeling basics
-
-## 🧪 Practice
-- Nmap scan scripts
-- Notes from hands-on labs
+- Network mapping (Nmap)
+- Basic port analysis
 
 ---
-🎓 Certification: ISC2 CC  
-📅 Started: April,2025
+🎓 Cert: ISC2 CC | 🗓️ Started: 2025
